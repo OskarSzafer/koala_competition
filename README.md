@@ -1,4 +1,5 @@
 # koala competition
+zadania pochodzą z konkursu koala, organizowanego dla liceów, przez Uniwersytet Adama Mickiewicza w Poznaniu. 
 
 ## decryption
 Napiszcie program, który odszyfruje dany szyfrogram uzyskany metodą kolumnowego szyfru przestawieniowego, dla którego zastosowano dany klucz. Program powinien wypisać odszyfrowany tekst jako jeden scalony
@@ -13,10 +14,23 @@ metoda szyfrowania:
 - Tekst jawny wprowadzany jest znak po znaku do kolejnych wierszy tabeli, w kierunku od lewej do prawej.
 - Należy przeczytać kolumnami tekst z tabeli, przy czym klucz określa kolejność odczytywania kolumn.
 
+>Przykładowe dane
+>CLGWRZIOEOSEWNGKZSEOOU
+>3 4 1 2
+
+>Przykładowy wynik
+>SZCZESLIWEGONOWEGOROKU
+
 ## expansion
 Napiszcie program, który dla zadanej liczby naturalnej 2 <= k <= 16 wyznacza najmniejszą potęgę liczby k (program powinien zwracać potęgę, a nie wykładnik), która nie występuje w ciągu zdefiniowanym poniżej:
 - Pierwszy wyraz ciągu jest równy 1.
 - Aby wyznaczyć kolejny wyraz, należy zapisać najpierw wszystkie poprzednie wyrazy ciągu w systemie liczbowym o podstawie k. Liczba cyfr potrzebnych do ich zapisania to kolejny wyraz ciągu.
+
+> Przykładowe dane
+> 5
+
+> Przykładowy wynik
+> 125
 
 ## gutter system
 Rysunek poniżej ukazuje projekt ściany wodnej, umieszczony w układzie współrzędnych OXY . Ze szczytu
@@ -36,3 +50,18 @@ Napiszcie program, który wyznacza liczbę litrów wody, która spływa z poszcz
 Przyjmijcie, że wśród rynien nie ma dwóch takich, które mają jakikolwiek punkt wspólny. Nie ma dwóch takich, które
 miałyby tę samą odciętą (współrzędną x) początku rynny, ani nie ma dwóch takich rynien, które miałyby tę samą odciętą
 końca rynny.
+
+> przykładowe dane:
+> 5
+> 1 12 5 9
+> 3 7 8 9
+> 7 5 10 3
+> 8 7 11 8
+> 11 10 14 11
+
+> przykładowy wynik
+> 4
+> 7
+> 6
+> 6
+> 3
