@@ -25,3 +25,14 @@ Znaczna część wody trafia do pochyłych rynien, które na rysunku są przedst
 spływa rynnami i dalej spada pionowo w dół, aż do napotkania kolejnej rynny lub osiągnięcia ziemi, w której
 znajduje się odpływ.
 
+![gutter_system](https://github.com/OskarSzafer/koala_competition/blob/main/images/gutter_system_explanation.png?raw=true)
+
+Załóżmy, że – tak jak w zadaniu 14 – ze szczytu ściany na długości 15 m wypływa ze stałą szybkością 15 l
+wody w ciągu sekundy, rozłożone równomiernie. Dana jest dodatnia liczba całkowita n ¬ 10, oznaczająca
+liczbę rynien oraz 2n par liczb całkowitych, z zakresu od 1 do 14, określających położenie rynien. Każde
+kolejne dwie pary liczb dotyczą jednej rynny: pierwsza para określa współrzędne (x, y) początku rynny, a
+druga para – współrzędne (x, y) końca tej rynny.
+Napiszcie program, który wyznacza liczbę litrów wody, która spływa z poszczególnych rynien w ciągu sekundy.
+Przyjmijcie, że wśród rynien nie ma dwóch takich, które mają jakikolwiek punkt wspólny. Nie ma dwóch takich, które
+miałyby tę samą odciętą (współrzędną x) początku rynny, ani nie ma dwóch takich rynien, które miałyby tę samą odciętą
+końca rynny.
