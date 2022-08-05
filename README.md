@@ -1,4 +1,4 @@
-# koala_competition
+# koala competition
 
 ## decryption
 Napiszcie program, który odszyfruje dany szyfrogram uzyskany metodą kolumnowego szyfru przestawieniowego, dla którego zastosowano dany klucz. Program powinien wypisać odszyfrowany tekst jako jeden scalony
