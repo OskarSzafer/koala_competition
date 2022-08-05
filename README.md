@@ -27,7 +27,7 @@ znajduje się odpływ.
 
 ![gutter_system](https://github.com/OskarSzafer/koala_competition/blob/main/images/gutter_system_explanation.png?raw=true)
 
-Załóżmy, że – tak jak w zadaniu 14 – ze szczytu ściany na długości 15 m wypływa ze stałą szybkością 15 l
+Ze szczytu ściany na długości 15 m wypływa ze stałą szybkością 15 l
 wody w ciągu sekundy, rozłożone równomiernie. Dana jest dodatnia liczba całkowita n ¬ 10, oznaczająca
 liczbę rynien oraz 2n par liczb całkowitych, z zakresu od 1 do 14, określających położenie rynien. Każde
 kolejne dwie pary liczb dotyczą jednej rynny: pierwsza para określa współrzędne (x, y) początku rynny, a
