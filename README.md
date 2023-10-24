@@ -1,5 +1,6 @@
 # koala competition
-zadania pochodzą z konkursu koala, organizowanego dla liceów, przez Uniwersytet Adama Mickiewicza w Poznaniu. 
+Zadania pochodzą z informatycznej części konkursu koala, organizowanego dla uczniów liceów, przez Uniwersytet Adama Mickiewicza w Poznaniu.
+Jest to matematyczny konkurs, skupiając się na dziedzinach kombinatoryki, logiki i algorytmiki oraz posiadający odzielną sekcję informatyczną.
 
 ## decryption
 Napiszcie program, który odszyfruje dany szyfrogram uzyskany metodą kolumnowego szyfru przestawieniowego, dla którego zastosowano dany klucz. Program powinien wypisać odszyfrowany tekst jako jeden scalony
